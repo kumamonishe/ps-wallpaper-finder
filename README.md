@@ -7,4 +7,5 @@ this simple script searches for .jpg and .png images in -src folder, checks if t
 -p[flag] -- search and copy portraits
 -l[flag] -- search and copy landscapes
 -r[flag] -- if set fill find for images in -src folder recursively
+-minwidth -- if you're looking for a landscape, you may set minimal width of a picture
 
